@@ -1,0 +1,128 @@
+ls -d
+ls -i
+ls -i d:
+ls -i
+ls -l d:/
+ls -lh e:
+pwd
+cd ..
+cd ..
+cd 学习笔记
+cd org
+d:
+a
+cd .
+ls -a
+ls -lh
+mkdir -p test/te
+ls 
+test
+ls
+..
+pwd
+rmdir test/te
+test/
+ls
+ls -a
+..
+exit
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+ifconfig
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb pull sdcard0/wtest/q.jpg
+adb pull storage/sdcard0/wtest/q.jpg
+exit
+exit
+ls -lh
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb shell
+su
+adb connect 192.168.1.100:5555
+adb shell
+ls -lh
+adb connect 192.168.1.100:5555
+su
+shell
+adb shell
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb devices
+adb start-server
+adb kill-server
+adb start-server
+adb connect 192.168.1.100:5555 
+adb install E:\计算机相关学习及研究\android\day42_手机安全卫士3\Day03代码\mobliesafe52\读取联系人\bin\读取联系人.apk
+adb install E:\计算机相关学习及研究\android\day42_手机安全卫士3\Day03代码\mobliesafe52\读取联系人\bin\读取联系人.apk
+find-abc-dired
+find .|xargs grep -ri "adb"
+find .|xargs grep -ri "IBM" 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555 
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb shell
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb shell
+adb connect 192.168.1.100:5555
+adb shell
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+emacs -eval
+ediff-files
+ediff-files /compare1.org /compare2.org
+ediff-files compare1.org compare2.org
+ediff-files \compare1.org \compare2.org
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.100:5555

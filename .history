@@ -1,0 +1,45 @@
+$
+$ gcc -Wall -o hello hello.c
+gcc -Wall -o hello hello.c
+exit
+gcc -Wall -o hello hello.c
+gcc -v
+exit
+ipconfig
+emacs
+gcc -v
+ipconfig
+exit
+gcc -nv
+gcc -v
+exit
+gcc -Wall -o 07_倒计时 07_倒计时.c
+gcc -Wall -o 07_倒计时 07_倒计时.c
+gcc -Wall -o 07_倒计时 07_倒计时.c
+gcc -Wall -o 07_倒计时 07_倒计时.c
+gcc -Wall -o 07_倒计时2 07_倒计时2.c
+exit
+ipconfig
+exit
+d:
+cd D:\androidWorkSpace\no_3jni\T93HelloWorldID1\jni
+ndk-build.cmd
+exit
+d:
+cd D:\androidWorkSpace\no_3jni\T93HelloWorldID1\jni
+ndk-build.cmd
+exit
+adb connect 192.168.1.100:5555
+exit
+javah
+javac
+java
+java -version
+javah
+java -h
+exit
+adb connect 192.168.1.100:5555
+exit
+exit
+su
+exit

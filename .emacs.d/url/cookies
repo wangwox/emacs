@@ -1,0 +1,32 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".baidu.com"
+  [url-cookie "PSTM" "1446473037" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
+  [url-cookie "BIDUPSID" "19312E63C42F71CD53C37834AD92D193" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
+  [url-cookie "max-age" "2147483647" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
+  [url-cookie "BAIDUID" "19312E63C42F71CD53C37834AD92D193:FG=1" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil])
+ (".google.com.hk"
+  [url-cookie "HttpOnly" nil "18-May-2016 10:46:17.00 GMT" "/" ".google.com.hk" nil]
+  [url-cookie "NID" "73=sQL4zlQZmzLSH2b3jpBhaZKEBdLMi6Lp_CrHPv_L8SyMwo4RUyyX1jy-xY4d4-BJQtNOyfFfznHUVuyjv5rY5DhUzUxG3NKXXuo8uaHke9ZctcZDSfsLAMSrrR03iNViQXWa3iZeqe6QghAzOjBMGmiypwB00njKRXV7MVHYtEjk-Og" "18-May-2016 10:46:17.00 GMT" "/" ".google.com.hk" nil]
+  [url-cookie "PREF" "ID=1111111111111111:FF=2:LD=zh-CN:NW=1:TM=1446473056:LM=1446473056:V=1:S=rd4gD9-fnK2XLSru" "31-Dec-2015 16:02:17.00 GMT" "/" ".google.com.hk" nil])
+ (".deepin.org"
+  [url-cookie "deepin_language" "zh-cn" "16-Nov-2016 10:50:53.00 GMT" "/" ".deepin.org" nil]
+  [url-cookie "Max-Age" "86400" "18-Nov-2015 10:50:53.00 GMT" "/" ".deepin.org" nil]
+  [url-cookie "httponly" nil "18-Nov-2015 10:50:53.00 GMT" "/" ".deepin.org" nil]
+  [url-cookie "wikiLoggedOut" "1447757453" "18-Nov-2015 10:50:53.00 GMT" "/" ".deepin.org" nil])
+ (".wap.baidu.com"
+  [url-cookie "BIDUPSID" "deleted" "01-Jan-1970 17:00:00.00 GMT" "/" ".wap.baidu.com" nil]
+  [url-cookie "max-age" "deleted" "01-Jan-1970 17:00:00.00 GMT" "/" ".wap.baidu.com" nil]
+  [url-cookie "PSTM" "deleted" "01-Jan-1970 17:00:00.00 GMT" "/" ".wap.baidu.com" nil])
+ (".google.com"
+  [url-cookie "PREF" "ID=1111111111111111:FF=0:NW=1:TM=1446473055:LM=1446473055:V=1:S=Hyi79bJlgU_VcER5" "31-Dec-2015 16:02:17.00 GMT" "/" ".google.com" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
